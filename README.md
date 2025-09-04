@@ -13,3 +13,5 @@ This repository contains all the code and data to reproduce all numerical result
 `Uncertainty_July15.R`: Code for generating plots relevant to model uncertainty (Figure 7)
 
 The `All_Datasets` folder contains all relevant training/testing datasets.
+
+This software is distributed under the terms of the GNU GENERAL PUBLIC LICENSE Version 2, April 2013.
